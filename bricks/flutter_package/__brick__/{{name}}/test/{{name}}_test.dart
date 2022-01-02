@@ -3,5 +3,5 @@ import 'package:flutter_test/flutter_test.dart';
 
 
 void main() {
-  group('{{#pascalCase}}{{name}}{{/pascalCase}}', () {});
+  group('${{#pascalCase}}{{name}}{{/pascalCase}}', () {});
 }

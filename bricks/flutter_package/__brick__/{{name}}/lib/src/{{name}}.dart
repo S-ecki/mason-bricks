@@ -1,4 +1,4 @@
 /// {@template authentication_repository}
-/// {{#sentenceCase}}{{name}}{{/sentenceCase}}
+/// {{description}}
 /// {@endtemplate}
 class {{#pascalCase}}{{name}}{{/pascalCase}} {}

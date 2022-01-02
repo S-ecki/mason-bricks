@@ -1,0 +1,3 @@
+# {{name}}
+
+{{#sentenceCase}}{{name}}{{/sentenceCase}}

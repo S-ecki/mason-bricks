@@ -1,5 +1,6 @@
 name: flutter_package
 description: Flutter package with analyis_options and tests
+version: 0.1.0+1
 vars:
   - name
   - description
